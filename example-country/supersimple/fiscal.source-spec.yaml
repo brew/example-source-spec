@@ -3,7 +3,7 @@ dataset-name: super-simple
 resource-name: ssimple
 owner-id: 338513c686c7da2f6f0553d8a0bfa3f8
 private: False
-revision: 2
+revision: 3
 
 sources:
 - url: budget.csv
